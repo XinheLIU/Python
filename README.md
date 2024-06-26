@@ -14,7 +14,7 @@
   - [Object Oriented Programming](./basic/modules/object-oriented-programming.md)
   - [Operating System](./basic/modules/operating-system.md)
 - [Running Python](running-python.md)
-  - [Python Environment and Text Editors](running-python/python-environment-and-text-editors.md)
+  - [Python Environment Set-up](running-python/python-environment-setup.md)
   - [IPython and Jupyter Notebook](running-python/ipython-and-jupyter-notebook.md)
 - [Object Oriented Programming](object-oriented-programming.md)
   - [UI and GUI](object-oriented-programming/ui-and-gui.md)
